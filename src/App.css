@@ -2,7 +2,7 @@
   --primary-color: #00afe9;
 }
 
-.App {
+.App header {
   max-width: 700px;
   max-height: 1200px;
   margin: 30px auto;
@@ -15,4 +15,8 @@
 .App h1 {
   text-align: center;
   color: var(--primary-color);
+}
+.App footer {
+  text-align: center;
+  color: gray;
 }
