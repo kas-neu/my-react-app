@@ -14,13 +14,18 @@ function App() {
         <footer>
           <p>
             This app was coded by Kasia, is open-sourced on{" "}
-            <a href="https://github.com/kas-neu/my-react-app" target="_blank">
+            <a
+              href="https://github.com/kas-neu/my-react-app"
+              target="_blank"
+              rel="noreferrer"
+            >
               Github
             </a>{" "}
             and hosted on{" "}
             <a
               href="https://kas-weatherapp-react.netlify.app/?"
-              target="_blank"
+              target="_blank "
+              rel="noreferrer"
             >
               {" "}
               Netlify
